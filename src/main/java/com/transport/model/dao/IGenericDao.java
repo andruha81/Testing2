@@ -1,4 +1,4 @@
-package transport.model.dao;
+package com.transport.model.dao;
 
 import java.util.List;
 

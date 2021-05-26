@@ -1,4 +1,4 @@
-package transport.model.entity;
+package com.transport.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
